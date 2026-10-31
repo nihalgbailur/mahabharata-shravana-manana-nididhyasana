@@ -7,7 +7,7 @@
 
 ![Source](https://img.shields.io/badge/source-Gita_Press_Hindi_%2B_Sanskrit-c2410c)
 ![Language](https://img.shields.io/badge/notes-English-1d4ed8)
-![Adi Parva](https://img.shields.io/badge/Ādi_Parva-4_%2F_233_chapters-d97706)
+![Adi Parva](https://img.shields.io/badge/Ādi_Parva-5_%2F_233_chapters-d97706)
 ![Sabha Parva](https://img.shields.io/badge/Sabhā_Parva-0_%2F_81_chapters-6b7280)
 
 </div>
@@ -67,7 +67,7 @@ A lens is used only where it genuinely fits. None is forced.
 
 ## 📚 Progress
 
-### Ādi Parva: 4 / 233 chapters
+### Ādi Parva: 5 / 233 chapters
 
 | # | Sub-parva | Chapters | Status |
 |---|---|---|---|
