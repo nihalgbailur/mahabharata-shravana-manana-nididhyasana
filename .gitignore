@@ -1,0 +1,12 @@
+# Ignore everything at the top level
+/*
+
+# Allow only these
+!/reading/
+!/system/
+!/.gitignore
+
+# Never upload these, anywhere
+*.pdf
+.DS_Store!
+/README.md
